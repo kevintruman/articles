@@ -89,3 +89,10 @@ Note: `--force` for replace `requirements.txt` file existing
 ```
 $ pip install -r requirements.txt
 ```
+
+### Articles Source
+
+- https://stackoverflow.com/questions/31684375/automatically-create-file-requirements-txt
+- https://github.com/bndr/pipreqs
+- https://stackoverflow.com/questions/56082462/how-to-use-imports-from-requirements-txt-in-python
+
